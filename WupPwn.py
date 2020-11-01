@@ -14,7 +14,6 @@ Python3 WupPwn.py HarFileName [pd=filedName:Value|pd=filedName:$DicFileName] [if
         out=xx.txt 输出记录到文件
         see=on|off 查看每次尝试破解响应
              Current request method have: GET/POST
-                *且目前不支持http请求头带 RFC 标识 (RFC-eg: ':method':'POST')可以检查是否有
         md5=XXX 将 指定字段名的值进行md5加密再暴力破解 一般=password||passwd||pwd ...
         th=5 设置5个线程同时运行
     版本警告:
